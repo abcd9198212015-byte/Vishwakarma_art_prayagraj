@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abcd9198212015-byte.github.io/Vishwakarma_art_prayagraj/sitemap.xml
